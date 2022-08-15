@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Ayunda Risu",
+    "birthday": "January 15th",
+    "gender": "Female",
+    "image": "https://pbs.twimg.com/profile_images/1510079123322175488/YxrSojEd_400x400.jpg",
+    "Color": "orange",
+    "gen": 1
+  },
+  {
+    "id": 2,
+    "name": "Moona Hoshinova",
+    "birthday": "February 15th",
+    "gender": "Female",
+    "image": "https://pbs.twimg.com/profile_images/1538698250710323201/W9o83ZLq_400x400.jpg",
+    "Color": "purple",
+    "gen": 1
+  },
+  {
+    "id": 3,
+    "name": "Airani Iofifteen",
+    "birthday": "Juli 15th",
+    "gender": "Female",
+    "image": "https://pbs.twimg.com/profile_images/1553311936850235392/ns71EMXR_400x400.jpg",
+    "Color": "pink",
+    "gen": 1
+  },
+  {
+    "id": 4,
+    "name": "Kureiji Ollie",
+    "birthday": "October 13th",
+    "gender": "Female",
+    "image": "https://pbs.twimg.com/profile_images/1557746983984541697/iBzPUsGz_400x400.jpg",
+    "Color": "red",
+    "gen": 2
+  },
+  {
+    "id": 5,
+    "name": "Anya Melfissa",
+    "birthday": "March 12th",
+    "gender": "Female",
+    "image": "https://pbs.twimg.com/profile_images/1510143483759448070/pLZSdaf2_400x400.jpg",
+    "Color": "brown",
+    "gen": 2
+  },
+  {
+    "id": 3,
+    "name": "Pavolia Reine",
+    "birthday": "September 9th",
+    "gender": "Female",
+    "image": "https://pbs.twimg.com/profile_images/1542597344835022848/70Qywxvr_400x400.png",
+    "Color": "pink",
+    "gen": 2
+  }
+]
